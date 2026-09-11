@@ -1,5 +1,9 @@
-body{
-     background-color:#CCFFFF
+body {
+  background-image: url('p9.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 *{
 box-sizing:border-box;
