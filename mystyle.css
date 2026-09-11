@@ -13,7 +13,7 @@ padding:0;
 .container{
          width:1024px;
          margin:0 auto;
-         box-shadow: box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+         box-shadow:0 10px 25px rgba(255, 182, 193, 0.4);
 }
 header{
     background-image:url(images/images.jpg);
